@@ -88,29 +88,3 @@ footer {
     background-color: #007BFF;
     color: white;
 }
-
-body.dark-mode {
-    background-color: #333;
-    color: #f4f4f4;
-}
-
-header.dark-mode {
-    background-color: #0056b3;
-}
-
-section.dark-mode {
-    background-color: #444;
-    color: #f4f4f4;
-}
-
-button.dark-mode {
-    background-color: #5cb85c;
-}
-
-button.dark-mode:hover {
-    background-color: #4cae4c;
-}
-
-footer.dark-mode {
-    background-color: #0056b3;
-}
